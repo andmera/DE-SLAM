@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# creates a relay to a python script source file, acting as that file.
+# The purpose is that of a symlink
+with open("/home/odroid/catkin_ws/src/rpg_svo1/rqt_svo/scripts/rqt_svo", 'r') as fh:
+    exec(fh.read())
