@@ -1,0 +1,2 @@
+rpg_svo1/rqt_svo:rpg_svo1/svo:rpg_svo1/svo_analysis:rpg_svo1/svo_msgs:rpg_svo1/svo_ros:rpg_vikit1/vikit_common:rpg_vikit1/vikit_py:rpg_vikit1/vikit_ros
+-DCATKIN_DEVEL_PREFIX=/home/osboxes/DE-Slam-Repo/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/osboxes/DE-Slam-Repo/catkin_ws/install -G Unix Makefiles
